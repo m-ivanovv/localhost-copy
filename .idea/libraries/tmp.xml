@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tmp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wp-content/backups-dup-lite/tmp/PRE_REFRESH_24th_June_2021_193b8ba7b333a94d4796_20210624082017_archive.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wp-content/backups-dup-lite/tmp/PRE_REFRESH_24th_June_2021_40bd97cd6a8d711f1578_20210624083704_archive.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

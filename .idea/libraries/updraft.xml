@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="updraft">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wp-content/updraft/backup_2019-09-13-1726_Ecopilot_24bd14652282-others.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wp-content/updraft/backup_2019-09-13-1726_Ecopilot_24bd14652282-uploads.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wp-content/updraft/backup_2019-09-13-1726_Ecopilot_24bd14652282-themes.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wp-content/updraft/backup_2019-09-13-1726_Ecopilot_24bd14652282-plugins.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wp-content/updraft/backup_2019-09-13-1726_Ecopilot_24bd14652282-uploads2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
